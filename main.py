@@ -4,7 +4,7 @@ import asyncio
 from datetime import datetime
 from parser_script import schedule_parser
 from rich import print
-#log level
+#log level6
 logging.basicConfig(level=logging.INFO)
 
 #bot init
